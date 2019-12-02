@@ -7171,14 +7171,6 @@ section.lazy-placeholder:after {
 .cid-rJvPhHcwhK H5 {
   color: #ffffff;
 }
-.cid-rJvP2yQ8wP {
-  padding-top: 120px;
-  padding-bottom: 30px;
-  background-color: #efefef;
-}
-.cid-rJvP2yQ8wP P {
-  color: #767676;
-}
 .cid-rJvlGCrM41 .navbar {
   padding: .5rem 0;
   background: #353434;
@@ -7577,80 +7569,6 @@ section.lazy-placeholder:after {
 .cid-rJvlGCrM41 .nav-link:hover,
 .cid-rJvlGCrM41 .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-rJvP5NfYMh {
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background-color: #232323;
-}
-@media (max-width: 767px) {
-  .cid-rJvP5NfYMh .content {
-    text-align: center;
-  }
-  .cid-rJvP5NfYMh .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rJvP5NfYMh .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-rJvP5NfYMh .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-rJvP5NfYMh .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-rJvP5NfYMh .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-rJvP5NfYMh .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-rJvP5NfYMh .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-}
-.cid-rJvP5NfYMh .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-rJvP5NfYMh .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-rJvP5NfYMh .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-rJvP5NfYMh .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-rJvP5NfYMh .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-}
-.cid-rJvP5NfYMh P {
-  color: #ffffff;
-}
-.cid-rJvP5NfYMh H5 {
-  color: #ffffff;
 }
 .cid-rJvPx3MY4b {
   padding-top: 120px;
